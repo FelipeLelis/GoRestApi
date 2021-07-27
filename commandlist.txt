@@ -1,0 +1,2 @@
+got mod init example.com/m
+go get github.com/gin/gonic/gin
